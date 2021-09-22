@@ -9,4 +9,4 @@ If you got any better solution on any of the problems, please make a Pull Reques
 At least 1 problem per day 🏆 no matter the Topic or Difficulty. 
 
 ## Problems Done ✅
-- 2. Add Two Numbers (Medium)
+* 2. Add Two Numbers (Medium)
