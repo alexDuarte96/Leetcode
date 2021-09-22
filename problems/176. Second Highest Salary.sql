@@ -1,4 +1,4 @@
-SELECT MAX(salary) SecondHighestSalary
+SELECT MAX(salary) AS SecondHighestSalary
 FROM Employee
 WHERE
   salary NOT IN(
