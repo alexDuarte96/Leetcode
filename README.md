@@ -13,6 +13,6 @@ I'll try to get at least 100 problems done by **December 31, 2021**
 > Current Progress: **2 out of 100** problems done.
 
 
-* <sup><sub>1\. Two Sum (Easy)</sub></sup>
+* 1\. Two Sum (Easy)
 * 2\. Add Two Numbers (Medium)
 
