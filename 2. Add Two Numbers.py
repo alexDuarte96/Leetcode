@@ -50,8 +50,7 @@ def addTwoNumbers(l1: ListNode, l2: ListNode) -> ListNode:
   
   return listN
 
-#--------
-
+# Test
 list1 = ListNode(val=2)
 add(list1,4)
 add(list1,3)
