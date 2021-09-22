@@ -9,10 +9,20 @@ If you got any better solution on any of the problems, please make a Pull Reques
 At least 1 problem per day 🏆 no matter the Topic or Difficulty. 
 I'll try to get at least 100 problems done by **December 31, 2021**
 
+<hr>
+
 ## Problems Done ✅
-> Current Progress: **2 out of 100** problems done.
+Current Progress: **2 out of 100** problems done.
 
+### Algorithms
+Problem             | Difficulty | Date Solved
+------------------- | ---------- | -----------
+1\. Two Sum         | Easy       | Sept 22, 2021
+2\. Add Two Numbers | Easy       | Sept 22, 2021
 
-* 1\. Two Sum (Easy)
-* 2\. Add Two Numbers (Medium)
+### Database
+Problem                     | Difficulty | Date Solved
+--------------------------- | ---------- | -----------
+176\. Second Highest Salary | Medium     | Sept 22, 2021
+
 
