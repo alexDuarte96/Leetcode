@@ -7,6 +7,10 @@ If you got any better solution on any of the problems, please make a Pull Reques
 
 ## Objective
 At least 1 problem per day 🏆 no matter the Topic or Difficulty. 
+I'll try to get at least 100 problems done by **December 31, 2021**
 
 ## Problems Done ✅
+> Current Progress: **2 out of 100** problems done.
+
+* 1\. Two Sum (Easy)
 * 2\. Add Two Numbers (Medium)
