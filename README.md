@@ -1,4 +1,4 @@
-# Leetcode
+# My Leetcode Progress
 
 ## Brief Description
 This is the repository where I'll be recording my progress on doing as much Leetcode Problems as I can. 👨🏽‍💻
@@ -11,7 +11,8 @@ I'll try to get at least 100 problems done by **December 31, 2021**
 
 ## Problems Done ✅
 > Current Progress: **2 out of 100** problems done.
-<sup><sub>
-* 1\. Two Sum (Easy)
+
+
+* <sup><sub>1\. Two Sum (Easy)</sub></sup>
 * 2\. Add Two Numbers (Medium)
-</sub></sup>
+
