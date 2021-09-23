@@ -19,7 +19,7 @@ Problem                | Difficulty | Date Solved
 ---------------------- | ---------- | -----------
 1\. Two Sum            | Easy       | Sept 22, 2021
 2\. Add Two Numbers    | Easy       | Sept 22, 2021
-7\. Reverse Integer.py | Easy       | Sept 22, 2021
+7\. Reverse Integer    | Easy       | Sept 22, 2021
 
 ### Database
 Problem                     | Difficulty | Date Solved
