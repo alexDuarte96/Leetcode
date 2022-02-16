@@ -1,4 +1,4 @@
-# My Leetcode Progress
+# 100 Leetcode Problems Progress
 
 ## Brief Description
 This is the repository where I'll be recording my progress on doing as much Leetcode Problems as I can. 👨🏽‍💻
