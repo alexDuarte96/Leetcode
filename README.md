@@ -15,12 +15,13 @@ I'll try to get at least 100 problems done by **December 31, 2021**
 Current Progress: **4 out of 100** problems done.
 
 ### Algorithms
-Problem                | Difficulty | Date Solved
----------------------- | ---------- | -----------
-1\. Two Sum            | Easy       | Sept 22, 2021
-2\. Add Two Numbers    | Easy       | Sept 22, 2021
-7\. Reverse Integer    | Easy       | Sept 22, 2021
-374\. Guess Number Higher or Lower     | Easy       | March 3, 2022
+Problem                            | Difficulty | Date Solved
+---------------------------------- | ---------- | -----------
+1\. Two Sum                        | Easy       | Sept 22, 2021
+2\. Add Two Numbers                | Easy       | Sept 22, 2021
+7\. Reverse Integer                | Easy       | Sept 22, 2021
+374\. Guess Number Higher or Lower | Easy       | March 3, 2022
+278. First Bad Version             | Easy       | March 3, 2022
 
 ### Database
 Problem                     | Difficulty | Date Solved
