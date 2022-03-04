@@ -21,7 +21,8 @@ Problem                            | Difficulty | Date Solved
 2\. Add Two Numbers                | Easy       | Sept 22, 2021
 7\. Reverse Integer                | Easy       | Sept 22, 2021
 374\. Guess Number Higher or Lower | Easy       | March 3, 2022
-278\. First Bad Version             | Easy       | March 3, 2022
+278\. First Bad Version            | Easy       | March 3, 2022
+48\. First Bad Version             | Medium       | March 4, 2022
 
 ### Database
 Problem                     | Difficulty | Date Solved
