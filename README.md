@@ -12,7 +12,7 @@ I'll try to get at least 100 problems done by **December 31, 2022**
 <hr>
 
 ## Problems Done ✅
-Current Progress: **6 out of 100** problems done.
+Current Progress: **9 out of 100** problems done.
 
 ### Algorithms
 Problem                            | Difficulty   | Date Solved
