@@ -7,7 +7,7 @@ If you got any better solution on any of the problems, please make a Pull Reques
 
 ## Objective
 At least 1 problem per day 🏆 no matter the Topic or Difficulty. 
-I'll try to get at least 100 problems done by **December 31, 2021**
+I'll try to get at least 100 problems done by **December 31, 2022**
 
 <hr>
 
@@ -24,8 +24,9 @@ Problem                            | Difficulty   | Date Solved
 278\. First Bad Version            | Easy         | March 3, 2022
 48\. Rotate Image                  | Medium       | March 4, 2022
 125\. Valid Palindrome             | Easy         | March 17, 2022
+965\. Univalued Binary Tree        | Easy         | March 20, 2022
 
-### Database
+### Database (SQL)
 Problem                     | Difficulty | Date Solved
 --------------------------- | ---------- | -----------
 176\. Second Highest Salary | Medium     | Sept 22, 2021
