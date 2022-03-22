@@ -25,6 +25,7 @@ Problem                            | Difficulty   | Date Solved
 48\. Rotate Image                  | Medium       | March 4, 2022
 125\. Valid Palindrome             | Easy         | March 17, 2022
 965\. Univalued Binary Tree        | Easy         | March 20, 2022
+69\. Sqrt(x)                       | Easy         | March 21, 2022
 
 ### Database (SQL)
 Problem                     | Difficulty | Date Solved
