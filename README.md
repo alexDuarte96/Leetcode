@@ -5,6 +5,8 @@ This is the repository where I'll be recording my progress on doing as much Leet
 I'll be doing most of them on Python 3, unless I found it easier to solve them on another language (Swift or C++).
 If you got any better solution on any of the problems, please make a Pull Request on it. 🙌🏽
 
+<hr>
+
 ## Objective
 At least 1 problem per day 🏆 no matter the Topic or Difficulty. 
 I'll try to get at least 100 problems done by **December 31, 2022**
@@ -26,6 +28,7 @@ Problem                            | Difficulty   | Date Solved
 125\. Valid Palindrome             | Easy         | March 17, 2022
 965\. Univalued Binary Tree        | Easy         | March 20, 2022
 69\. Sqrt(x)                       | Easy         | March 21, 2022
+
 
 ### Database (SQL)
 Problem                     | Difficulty | Date Solved
